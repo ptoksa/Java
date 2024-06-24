@@ -1,0 +1,4 @@
+{
+    "code-runner.runInTerminal": true,
+    "java.compile.nullAnalysis.mode": "automatic"
+}
